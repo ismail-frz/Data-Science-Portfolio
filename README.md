@@ -1,1 +1,1 @@
-# Birth-Rate-Life-Expectancy
+In this project, I look at the birth rate(X-axis) and life expectancy(Y-axis) statistics by country through a scatterplot. The scatterplot is categorised by countries regions (Europe, America, Asia, Africa, Middle East, and Oceania). I have data for the years 1960 and 2013. I've produced scatterplot for both years and then provided a comparison between them. 
