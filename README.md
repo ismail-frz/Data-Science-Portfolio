@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
-This repository contains projects that are written in Python (Jupyter Notebook) and R markdown. 
+This repository contains projects that are written in Python (Jupyter Notebook) and R markdown. Click on the project titles to access the codes and writeups. 
+
+Please do not hesitate to contact me [here](https://www.linkedin.com/in/ismailhm), if you are hiring a data scientist. 
 
 ## Projects
 
