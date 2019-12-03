@@ -15,4 +15,4 @@ Please do not hesitate to contact me [here](https://www.linkedin.com/in/ismail-f
   - #### [Movie Data Analysis:](http://rpubs.com/ismail-hm/555820)
      This project is focused on exploratory analysis of the Movies_Dataset by cleaning the dataset, and then exploring relationships between identified variables.
 
-### More projects coming soon...
+
