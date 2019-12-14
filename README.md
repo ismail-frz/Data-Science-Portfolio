@@ -7,7 +7,7 @@ Please do not hesitate to contact me either by email or [here](https://www.linke
 ## Projects
 
 - ### Python
-  -  **[Machine Learning: Customer Segmentation:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Machine_Learning:%20Customer_Segmentation.ipynb)** 
+  -  **[Machine Learning_Customer Segmentation:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Machine_Learning:%20Customer_Segmentation.ipynb)** 
   This project involves analyzing KPIs and segmenting customers using GMM and K-Means clustering algorithms. The dataset used here is available on Kaggle.
   
   -  **[World Trends in Birth rate and Life expectancy:](https://github.com/ismail-hm/Data-Science-Portfolio/blob/master/World%20Trends%20in%20Birth%20rate%20and%20Life%20Expectancy.ipynb)** 
