@@ -2,7 +2,7 @@
 
 This repository contains projects that are completed by myself for hobby purposes. The projects are written in Python (Jupyter Notebook) and R markdown. Click on the project titles to access the codes and writeups.
 
-Please do not hesitate to contact me either by email or [here](https://www.linkedin.com/in/ismail-frz/), if you are hiring a data scientist with a strong mathematical and statistical background. 
+Please feel free to contact me either by email or [here](https://www.linkedin.com/in/ismail-frz/), if you are interested in learning more about my skills, experience, and academic background.
 
 ## Projects
 
