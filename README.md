@@ -22,6 +22,6 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
 
 - ### R
   - **[Exploratory Movie Data Analysis:](http://rpubs.com/ismail-hm/555820)**
-     This project is focused on exploratory analysis of the Movies_Dataset by cleaning the dataset, and then exploring relationships between identified variables.
+     This project is focused on exploratory analysis of a movies dataset by cleaning the dataset, and then exploring relationships between identified variables.
 
 
