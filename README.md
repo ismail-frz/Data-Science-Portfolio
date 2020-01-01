@@ -13,8 +13,11 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
   -  **[Customer Segmentation:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Machine_Learning:%20Customer_Segmentation.ipynb)** 
   This project involves analyzing KPIs and segmenting customers using GMM and K-Means clustering algorithms. The dataset used here is available on Kaggle.
   
+  -  **[Stock Market Analysis:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Stock%20Market%20Analysis.ipynb)** 
+  I will explore the stock market data for some tech giants in this project. I am particularly interested in Microsoft's stock.
+  
   -  **[World Trends in Fertility and Life expectancy:](https://github.com/ismail-hm/Data-Science-Portfolio/blob/master/World%20Trends%20in%20Birth%20rate%20and%20Life%20Expectancy.ipynb)** 
-     In this project, I explored fertility and life expectancy statistics by country through scatterplots. The scatterplots are categorised by countries regions (Europe, America, Asia, Africa, Middle East, and Oceania).
+     In this project, I explore fertility and life expectancy statistics by country through scatterplots. The scatterplots are categorised by countries regions.
 
 
 - ### R
