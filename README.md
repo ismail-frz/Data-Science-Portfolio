@@ -7,6 +7,9 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
 ## Projects
 
 - ### Python
+    -  **[Handwritten Digits Classification:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Handwritten%20Integer%20Classification.ipynb)**
+    In this micro project we'll try to classify grayscale images of handwritten digits (28 x 28 pixels) into thier 10 categories (0 through 9). We will use the MNIST dataset which has a set of 60,000 training images, and 10,000 test images.
+    
   -  **[Predicting Loan Payback:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Predicting%20Loan%20Payback.ipynb)**
   Investors are often interested in learning the risks involved in lending money. This project attempts to predict the people (borrowers) who have high probability of paying back their loans.
   
