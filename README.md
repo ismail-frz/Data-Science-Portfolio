@@ -8,7 +8,7 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
 
 - ### R
   - **[Cricket Data Analysis:](https://rpubs.com/ismail-hm/605412)**
-     I grew up playing cricket and still love playing it here in Canada. Just wanted to look at a cricket dataset using R.
+     I grew up playing cricket and still love playing it. Just wanted to look at a cricket dataset using R and choose my best 11 based on the analysis and my cricketing knowledge.
      
   - **[Exploratory Movie Data Analysis:](http://rpubs.com/ismail-hm/555820)**
      This project is focused on exploratory analysis of a movies dataset by cleaning the dataset, and then exploring relationships between identified variables.
