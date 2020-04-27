@@ -6,6 +6,13 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
 
 ## Projects
 
+- ### R
+  - **[Cricket Data Analysis:](https://rpubs.com/ismail-hm/605412)**
+     I grew up playing cricket and still love playing it here in Canada. Just wanted to look at a cricket dataset using R.
+     
+  - **[Exploratory Movie Data Analysis:](http://rpubs.com/ismail-hm/555820)**
+     This project is focused on exploratory analysis of a movies dataset by cleaning the dataset, and then exploring relationships between identified variables.
+
 - ### Python
     -  **[Predicting House Prices:](https://github.com/ismail-frz/Data-Science-Portfolio/blob/master/Predicting%20House%20Prices.ipynb)**
     We’ll attempt to predict the median price of homes in a given Boston suburb in the mid-1970s, given data points about the suburb at the time, such as the crime rate, the local property tax rate, and so on.
@@ -24,10 +31,5 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
   
   -  **[World Trends in Fertility and Life expectancy:](https://github.com/ismail-hm/Data-Science-Portfolio/blob/master/World%20Trends%20in%20Birth%20rate%20and%20Life%20Expectancy.ipynb)** 
      In this project, I explore fertility and life expectancy statistics by country through scatterplots. The scatterplots are categorised by countries regions.
-
-
-- ### R
-  - **[Exploratory Movie Data Analysis:](http://rpubs.com/ismail-hm/555820)**
-     This project is focused on exploratory analysis of a movies dataset by cleaning the dataset, and then exploring relationships between identified variables.
 
 
