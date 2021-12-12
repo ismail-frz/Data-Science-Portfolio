@@ -8,7 +8,7 @@ Please feel free to reach out either by email or [LinkedIn](https://www.linkedin
 
 - ### R
   - **[Health Data Analysis:](https://rpubs.com/ismail-hm/846474)**
-     In this project I looked into three research questions related to behaviourial health risks.
+     In this project I proposed three research questions related to behavioral health risks and tried to find answers through exploratory data analysis.
      
   - **[Cricket Data Analysis:](https://rpubs.com/ismail-hm/605412)**
      I grew up playing cricket and still love playing it. Just wanted to look at a cricket dataset using R and choose my best 11 based on the analysis and my cricketing knowledge.
